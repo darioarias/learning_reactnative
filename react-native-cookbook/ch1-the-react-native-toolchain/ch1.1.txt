@@ -1,0 +1,8 @@
+1. Ensure to have all the tools needed
+    Watchman
+    Node
+        react-native-cli
+        nvm 
+        npm 
+    xcode
+    android studios
